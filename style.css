@@ -1,0 +1,84 @@
+*{
+    box-sizing: border-box;
+}
+button{
+    background-color: transparent;
+    padding: 8px 10px;
+    border-radius: 8px;
+    display: block;margin-bottom: 18px;
+    border-radius: 50px;
+     font-size: 13px;
+     background: linear-gradient(to right, red, blue);
+     color: rgba(255, 255, 255, 0.849);
+}
+body{
+    height: 100%;
+    background-size: cover;
+}
+.button{
+    margin-top: 30px;
+    padding: 40px 10px;
+    width: 160px;
+}
+.container span{
+    margin: 0 10px;
+    position: relative;
+    top: 10px;
+    cursor: pointer;
+}
+.disable{
+    display: none;
+}
+
+.card{
+    background-color: rgba(255, 255, 255, 0.466);
+    width: 350px;
+    padding: 15px 15px;
+    border-radius: 12px;
+    /* background: linear-gradient(to right, rgba(192, 80, 80, 0.733), rgba(238, 202, 154, 0.767)); */
+animation: animation;
+}
+.cardcontainer{
+    position: absolute;
+    top: 70px;
+    left: 220px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+.shopp{
+    background-image: url(shopping.png);
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
